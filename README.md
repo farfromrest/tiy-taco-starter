@@ -1,8 +1,6 @@
 # Taco Truck Workshop
 
-[Finished Project](https://github.com/tiy-atx-ui/taco-truck)
-
-[Code for Finished Project](https://tiy-atx-ui.github.io/taco-truck/)
+[Finished Project](https://github.com/farfromrest/tiy-taco-complete)
 
 ## Editors
 
